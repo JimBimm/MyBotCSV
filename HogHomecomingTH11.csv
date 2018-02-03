@@ -15,8 +15,8 @@ MAKE  |C          |FRONT-LEFT |10         |-10        |INT-EXT    |0          |0
 MAKE  |D          |FRONT-LEFT |10         |-16        |INT-EXT    |0          |0          |           |
 MAKE  |E          |FRONT-RIGHT|10         |-10        |INT-EXT    |0          |0          |           |
 MAKE  |F          |FRONT-LEFT |10         |2          |EXT-INT    |0          |0          |           |
-MAKE  |G          |FRONT-LEFT |10         |-22        |INT-EXT    |0          |0          |           |
-MAKE  |H          |FRONT-RIGHT|10         |-22        |INT-EXT    |0          |0          |           |
+MAKE  |G          |FRONT-LEFT |10         |-18        |INT-EXT    |0          |0          |           |
+MAKE  |H          |FRONT-RIGHT|10         |-18        |INT-EXT    |0          |0          |           |
 
       |VECTOR_____|INDEX______|QTY_X_VECT_|TROOPNAME__|DELAY_DROP_|DELAYCHANGE|SLEEPAFTER_|___________|
 DROP  |A          |10         |6          |Giant      |50         |0          |700-1000   |           |
