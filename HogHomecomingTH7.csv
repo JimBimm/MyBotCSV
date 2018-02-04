@@ -1,4 +1,4 @@
-NOTE  |Dark Hog Homecoming TH7 0.02
+NOTE  |Dark Hog Homecoming TH7 0.03
 NOTE  |Author: geheim007
 NOTE  |CC: Giants 
 NOTE  |180 Capacity: 2 Healer, 13 Wizards, 19 Hogs, 2-3 Heal Spells
@@ -28,7 +28,7 @@ DROP  |C          |5          |1          |HSpell     |50         |20         |0
 DROP  |E          |3          |1          |HSpell     |50         |20         |0          |           |
 DROP  |A          |5,7,9,10   |4          |Wiza       |70-80      |90-100     |50         |           |
 DROP  |B          |1,3,5,6    |4          |Wiza       |70-80      |90-100     |300-400    |           |
-DROP  |A          |10         |5          |Wiza       |50-75      |70-90      |3200       |           |
+DROP  |A          |10         |5          |Wiza       |50-75      |70-90      |2500       |           |
 RECALC|           |           |           |           |           |           |           |           |
 DROP  |D          |1          |1          |HSpell     |50         |20         |100-200    |           |
 DROP  |A-B        |1-8        |1          |REMAIN     |50-70      |100        |50-100     |           |
