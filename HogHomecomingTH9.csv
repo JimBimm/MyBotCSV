@@ -1,4 +1,4 @@
-NOTE  |Dark Hog Homecoming TH9 0.53 Alpha 03/02/18
+NOTE  |Dark Hog Homecoming TH9 1.55
 NOTE  |Author: geheim007
 NOTE  |CC: Giants 
 NOTE  |220 Capacity: 2 Healer, 18 Wizards, 24 Hogs, 3 Heal Spells
@@ -24,13 +24,13 @@ RECALC|           |           |           |           |           |           | 
 DROP  |A          |10         |1          |King       |50         |50         |100-200    |           |
 DROP  |F          |10         |1          |Warden     |50         |50         |50         |           |
 DROP  |A          |5,10       |16         |Hogs       |70-80      |90-100     |50         |           |
-DROP  |B          |7          |8          |Hogs       |70-80      |90-100     |400-500    |           |
+DROP  |B          |7          |8          |Hogs       |70-80      |90-100     |0          |           |
+RECALC|           |           |           |           |           |           |           |           |
+DROP  |C          |5          |1          |HSpell     |50         |10-20      |150        |           |
+DROP  |E          |3          |1          |HSpell     |50         |10-20      |150        |           |
 DROP  |A          |5,7,9,10   |4          |Wiza       |70-80      |90-100     |50         |           |
 DROP  |B          |1,3,5,6    |4          |Wiza       |70-80      |90-100     |300-400    |           |
 DROP  |F          |10         |1          |Queen      |50         |50         |100-200    |           |
-DROP  |A          |10         |10         |Wiza       |50-75      |70-90      |50         |           |
-RECALC|           |           |           |           |           |           |           |           |
-DROP  |C          |5          |1          |HSpell     |50         |10-20      |150        |           |
-DROP  |E          |3          |1          |HSpell     |50         |10-20      |4000       |           |
+DROP  |A          |10         |10         |Wiza       |50-75      |70-90      |3500       |           |
 DROP  |D          |1          |1          |HSpell     |50         |10-20      |100-200    |           |
 DROP  |A-B        |1-8        |1          |REMAIN     |50-70      |100        |50-100     |           |
