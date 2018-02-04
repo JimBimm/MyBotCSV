@@ -1,4 +1,4 @@
-NOTE  |Dark Hog Homecoming TH9 1.57
+NOTE  |Dark Hog Homecoming TH9 1.58
 NOTE  |Author: geheim007
 NOTE  |CC: Giants 
 NOTE  |220 Capacity: 2 Healer, 18 Wizards, 24 Hogs, 3 Heal Spells
@@ -12,9 +12,9 @@ SIDEB |0          |0          |0          |0          |0          |-3         | 
       |VECTOR_____|SIDE_______|DROP_POINTS|ADDTILES___|VERSUS_____|RANDOMX_PX_|RANDOMY_PX_|___________|  
 MAKE  |A          |FRONT-LEFT |10         |1          |EXT-INT    |0          |0          |           |
 MAKE  |B          |FRONT-RIGHT|10         |1          |INT-EXT    |0          |0          |           |
-MAKE  |C          |FRONT-LEFT |10         |-10        |INT-EXT    |0          |0          |           |
+MAKE  |C          |FRONT-LEFT |10         |-11        |INT-EXT    |0          |0          |           |
 MAKE  |D          |FRONT-LEFT |10         |-18        |INT-EXT    |0          |0          |           |
-MAKE  |E          |FRONT-RIGHT|10         |-10        |INT-EXT    |0          |0          |           |
+MAKE  |E          |FRONT-RIGHT|10         |-11        |INT-EXT    |0          |0          |           |
 MAKE  |F          |FRONT-LEFT |10         |2          |EXT-INT    |0          |0          |           |
 
       |VECTOR_____|INDEX______|QTY_X_VECT_|TROOPNAME__|DELAY_DROP_|DELAYCHANGE|SLEEPAFTER_|___________|
