@@ -37,6 +37,6 @@ RECALC|           |           |           |           |           |           | 
 DROP  |C          |5          |1          |HSpell     |50         |20         |500        |           |
 DROP  |E          |3          |1          |HSpell     |50         |20         |4000       |           |
 DROP  |D          |1          |1          |HSpell     |50         |20         |1000       |           |
-DROP  |G          |5          |1          |HSpell     |50         |20         |500        |           |
+DROP  |G          |5          |1          |HSpell     |50         |20         |100        |           |
 DROP  |H          |3          |1          |HSpell     |50         |20         |100        |           |
 DROP  |A-B        |1-8        |1          |REMAIN     |50-70      |100        |50-100     |           |
