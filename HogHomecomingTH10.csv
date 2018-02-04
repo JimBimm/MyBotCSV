@@ -1,4 +1,4 @@
-NOTE  |Dark Hog Homecoming TH10 0.02
+NOTE  |Dark Hog Homecoming TH10 1.0
 NOTE  |Author: geheim007
 NOTE  |CC: Giants 
 NOTE  |240 Capacity: 2 Healer, 18 Wizards, 26 Hogs, 4-5 Heal Spells, 5 Wallbreaker
@@ -36,7 +36,7 @@ DROP  |A          |10         |10         |Wiza       |50-75      |70-90      |5
 DROP  |A          |10         |1          |Castle     |50         |50         |50         |           |
 DROP  |C          |5          |1          |HSpell     |50         |20         |500        |           |
 DROP  |E          |3          |1          |HSpell     |50         |20         |4000       |           |
-DROP  |D          |1          |1          |HSpell     |50         |20         |4000       |           |
+DROP  |D          |1          |1          |HSpell     |50         |20         |1000       |           |
 DROP  |G          |5          |1          |HSpell     |50         |20         |500        |           |
 DROP  |H          |3          |1          |HSpell     |50         |20         |100        |           |
 DROP  |A-B        |1-8        |1          |REMAIN     |50-70      |100        |50-100     |           |
