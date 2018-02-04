@@ -1,4 +1,4 @@
-NOTE  |Dark Hog Homecoming TH11 NoCC 1.02
+NOTE  |Dark Hog Homecoming TH11 NoCC 1.03
 NOTE  |Author: geheim007
 NOTE  |260 Capacity: 2 Healer, 18 Wizards, 24 Hogs, 5 Heal Spells, 6-8 Giants, 5 Wallbreaker
 
@@ -26,7 +26,7 @@ DROP  |A          |10         |1          |King       |50         |50         |1
 DROP  |F          |10         |1          |Warden     |50         |50         |50         |           |
 DROP  |A          |10         |2          |Wall       |50         |50         |200        |           |
 DROP  |A          |5,10       |16         |Hogs       |70-80      |90-100     |50         |           |
-DROP  |B          |7          |8          |Hogs       |70-80      |90-100     |400-500    |           |
+DROP  |B          |7          |8          |Hogs       |70-80      |90-100     |100        |           |
 RECALC|           |           |           |           |           |           |           |           |
 DROP  |C          |5          |1          |HSpell     |50         |20         |0          |           |
 DROP  |E          |3          |1          |HSpell     |50         |20         |0          |           |
